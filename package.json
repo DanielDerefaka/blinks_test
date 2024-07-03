@@ -4,8 +4,8 @@
   "license": "Apache-2.0",
  
   "scripts": {
-    "dev": "tsx watch index.ts",
-    "build": "netlify deploy --prod"
+    "dev": "tsx watch index.ts"
+    
   },
   "dependencies": {
     "@hono/node-server": "^1.11.3",
