@@ -5,6 +5,7 @@
  
   "scripts": {
     "dev": "tsx watch index.ts"
+    
   },
   "dependencies": {
     "@hono/node-server": "^1.11.3",
